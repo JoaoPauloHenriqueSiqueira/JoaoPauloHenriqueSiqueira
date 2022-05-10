@@ -1,8 +1,6 @@
 ### Hi, I'm João 
 
-- 🔭 I’m currently working on Laravel & Vue
-- 🌱 I’m currently learning Flutter
-
+I’m currently working on Laravel & Vue
 
 <div align="center">
   <a href="https://github.com/JoaoPauloHenriqueSiqueira">
